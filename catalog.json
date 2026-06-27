@@ -1,0 +1,98 @@
+{
+  "_comment": "Orange 在线资源目录。托管到 GitHub（raw 或 Pages）后，在 app「云资源 → 存储管理 → 目录地址」里填它的 URL 即可（无需改代码）。needsProxy:false 的源已实测可直接下载、无需登录/代理；needsProxy:true 的（YouTube/TED 等）会在连不上时自动隐藏。请按 PLAN.md 第 2 节继续策展真正的学习资源（播客 RSS→mp3、LibriVox、Bilibili 等）。",
+  "version": "2026-06-27",
+  "items": [
+    {
+      "id": "ov-bbb-clip",
+      "title": "Sintel 片段（CC · 10 秒测试）",
+      "category": "短片",
+      "duration": "00:10",
+      "level": "初级",
+      "desc": "Blender CC 短片片段，约 1MB，秒下，用于快速验证",
+      "sourceUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/360/Sintel_360_10s_1MB.mp4",
+      "kind": "video",
+      "needsLogin": false,
+      "needsProxy": false,
+      "regions": ["global", "CN"]
+    },
+    {
+      "id": "ov-jellyfish-clip",
+      "title": "Jellyfish 片段（CC · 10 秒测试）",
+      "category": "短片",
+      "duration": "00:10",
+      "level": "初级",
+      "desc": "水母测试短片，约 1MB，秒下",
+      "sourceUrl": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/360/Jellyfish_360_10s_1MB.mp4",
+      "kind": "video",
+      "needsLogin": false,
+      "needsProxy": false,
+      "regions": ["global", "CN"]
+    },
+    {
+      "id": "ov-bbb-full",
+      "title": "Big Buck Bunny（CC 全片 · Blender 官方源）",
+      "category": "纪录片",
+      "duration": "09:56",
+      "level": "中级",
+      "desc": "Blender 开源动画全片，CC 授权，官方源直链",
+      "sourceUrl": "https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+      "kind": "video",
+      "needsLogin": false,
+      "needsProxy": false,
+      "regions": ["global", "CN"]
+    },
+    {
+      "id": "ov-bbb-archive",
+      "title": "Big Buck Bunny 720p（archive.org 源）",
+      "category": "纪录片",
+      "duration": "09:56",
+      "level": "中级",
+      "desc": "同片高清版，archive.org 直链，CC 授权",
+      "sourceUrl": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
+      "kind": "video",
+      "needsLogin": false,
+      "needsProxy": false,
+      "regions": ["global", "CN"]
+    },
+    {
+      "id": "ov-audio-sample",
+      "title": "英文音频示例（替换为播客/有声书）",
+      "category": "播客",
+      "duration": "00:15",
+      "level": "初级",
+      "desc": "占位音频，演示「仅音频」精听；正式用请换成 LibriVox / 播客 RSS 的直链 mp3",
+      "sourceUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
+      "kind": "audio",
+      "needsLogin": false,
+      "needsProxy": false,
+      "regions": ["global", "CN"]
+    },
+    {
+      "id": "ov-ted-speak",
+      "title": "TED：How to speak so that people want to listen",
+      "category": "演讲",
+      "duration": "09:58",
+      "level": "中级",
+      "desc": "Julian Treasure 谈如何让人愿意听你说（需畅通网络）",
+      "sourceUrl": "https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen",
+      "embedUrl": "https://embed.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen",
+      "kind": "video",
+      "needsLogin": false,
+      "needsProxy": true,
+      "regions": ["global"]
+    },
+    {
+      "id": "ov-yt-bbb",
+      "title": "YouTube 示例（需畅通网络）",
+      "category": "短片",
+      "duration": "10:34",
+      "level": "中级",
+      "desc": "演示网页源走 yt-dlp；连不上 YouTube 时此项自动隐藏",
+      "sourceUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+      "kind": "video",
+      "needsLogin": false,
+      "needsProxy": true,
+      "regions": ["global"]
+    }
+  ]
+}
