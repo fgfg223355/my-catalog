@@ -1,346 +1,6 @@
 {
-  "_comment": "Orange 在线资源目录。托管到 GitHub（raw 或 Pages）后，在 app「云资源 → 存储管理 → 目录地址」里填它的 URL 即可（无需改代码）。needsProxy:false 的源已实测可直接下载、无需登录/代理；needsProxy:true 的（YouTube/TED 等）会在连不上时自动隐藏。请按 PLAN.md 第 2 节继续策展真正的学习资源（播客 RSS→mp3、LibriVox、Bilibili 等）。",
   "version": "2026-06-27",
   "items": [
-    {
-      "id": "ov-bbb-clip",
-      "title": "Sintel 片段（CC · 10 秒测试）",
-      "category": "短片",
-      "duration": "00:10",
-      "level": "初级",
-      "desc": "Blender CC 短片片段，约 1MB，秒下，用于快速验证",
-      "sourceUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/360/Sintel_360_10s_1MB.mp4",
-      "kind": "video",
-      "needsLogin": false,
-      "needsProxy": false,
-      "regions": [
-        "global",
-        "CN"
-      ]
-    },
-    {
-      "id": "ov-jellyfish-clip",
-      "title": "Jellyfish 片段（CC · 10 秒测试）",
-      "category": "短片",
-      "duration": "00:10",
-      "level": "初级",
-      "desc": "水母测试短片，约 1MB，秒下",
-      "sourceUrl": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/360/Jellyfish_360_10s_1MB.mp4",
-      "kind": "video",
-      "needsLogin": false,
-      "needsProxy": false,
-      "regions": [
-        "global",
-        "CN"
-      ]
-    },
-    {
-      "id": "ov-bbb-full",
-      "title": "Big Buck Bunny（CC 全片 · Blender 官方源）",
-      "category": "纪录片",
-      "duration": "09:56",
-      "level": "中级",
-      "desc": "Blender 开源动画全片，CC 授权，官方源直链",
-      "sourceUrl": "https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
-      "kind": "video",
-      "needsLogin": false,
-      "needsProxy": false,
-      "regions": [
-        "global",
-        "CN"
-      ]
-    },
-    {
-      "id": "ov-bbb-archive",
-      "title": "Big Buck Bunny 720p（archive.org 源）",
-      "category": "纪录片",
-      "duration": "09:56",
-      "level": "中级",
-      "desc": "同片高清版，archive.org 直链，CC 授权",
-      "sourceUrl": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
-      "kind": "video",
-      "needsLogin": false,
-      "needsProxy": false,
-      "regions": [
-        "global",
-        "CN"
-      ]
-    },
-    {
-      "id": "ov-audio-sample",
-      "title": "英文音频示例（替换为播客/有声书）",
-      "category": "播客",
-      "duration": "00:15",
-      "level": "初级",
-      "desc": "占位音频，演示「仅音频」精听；正式用请换成 LibriVox / 播客 RSS 的直链 mp3",
-      "sourceUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
-      "kind": "audio",
-      "needsLogin": false,
-      "needsProxy": false,
-      "regions": [
-        "global",
-        "CN"
-      ]
-    },
-    {
-      "id": "ov-ted-speak",
-      "title": "TED：How to speak so that people want to listen",
-      "category": "演讲",
-      "duration": "09:58",
-      "level": "中级",
-      "desc": "Julian Treasure 谈如何让人愿意听你说（需畅通网络）",
-      "sourceUrl": "https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen",
-      "embedUrl": "https://embed.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen",
-      "kind": "video",
-      "needsLogin": false,
-      "needsProxy": true,
-      "regions": [
-        "global"
-      ]
-    },
-    {
-      "id": "ov-yt-bbb",
-      "title": "YouTube 示例（需畅通网络）",
-      "category": "短片",
-      "duration": "10:34",
-      "level": "中级",
-      "desc": "演示网页源走 yt-dlp；连不上 YouTube 时此项自动隐藏",
-      "sourceUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
-      "kind": "video",
-      "needsLogin": false,
-      "needsProxy": true,
-      "regions": [
-        "global"
-      ]
-    },
-    {
-      "id": "bbc6min-1",
-      "title": "BBC 6 Minute English · The English We Speak: Sell yourself short",
-      "category": "播客",
-      "duration": "2:31",
-      "level": "中级",
-      "sourceUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0ntl51p.mp3",
-      "kind": "audio",
-      "needsLogin": false,
-      "needsProxy": true,
-      "regions": [
-        "global"
-      ],
-      "desc": "Feel like you're not good enough? Learn how to use 'sell yourself short'.",
-      "subPreview": [
-        "Feel like you're not good enough? Learn how to use 'sell yourself short'."
-      ],
-      "thumb": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0ntl6v1.jpg"
-    },
-    {
-      "id": "bbc6min-2",
-      "title": "BBC 6 Minute English · The English We Speak: Wrap it up",
-      "category": "播客",
-      "duration": "2:44",
-      "level": "中级",
-      "sourceUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0ns807f.mp3",
-      "kind": "audio",
-      "needsLogin": false,
-      "needsProxy": true,
-      "regions": [
-        "global"
-      ],
-      "desc": "Sometimes you just want people to stop. Learn this expression with Feifei and Phil.",
-      "subPreview": [
-        "Sometimes you just want people to stop. Learn this expression with Feifei and Phil."
-      ],
-      "thumb": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0ns82jn.jpg"
-    },
-    {
-      "id": "bbc6min-3",
-      "title": "BBC 6 Minute English · The English We Speak: Throw ideas at the wall",
-      "category": "播客",
-      "duration": "2:49",
-      "level": "中级",
-      "sourceUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nqxf2k.mp3",
-      "kind": "audio",
-      "needsLogin": false,
-      "needsProxy": true,
-      "regions": [
-        "global"
-      ],
-      "desc": "Sometimes you want to come up with ideas without thinking too much",
-      "subPreview": [
-        "Sometimes you want to come up with ideas without thinking too much"
-      ],
-      "thumb": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0nqxgh9.jpg"
-    },
-    {
-      "id": "bbc6min-4",
-      "title": "BBC 6 Minute English · The English We Speak: Like a moth to a flame",
-      "category": "播客",
-      "duration": "2:44",
-      "level": "中级",
-      "sourceUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0npm428.mp3",
-      "kind": "audio",
-      "needsLogin": false,
-      "needsProxy": true,
-      "regions": [
-        "global"
-      ],
-      "desc": "Moths are attracted to light. Learn how to use this metaphor with Feifei and Georgie.",
-      "subPreview": [
-        "Moths are attracted to light. Learn how to use this metaphor with Feifei and Georgie."
-      ],
-      "thumb": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0npm5jw.jpg"
-    },
-    {
-      "id": "bbc6min-5",
-      "title": "BBC 6 Minute English · The English We Speak: Gatekeep",
-      "category": "播客",
-      "duration": "3:00",
-      "level": "中级",
-      "sourceUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nn9jhl.mp3",
-      "kind": "audio",
-      "needsLogin": false,
-      "needsProxy": true,
-      "regions": [
-        "global"
-      ],
-      "desc": "Your hair looks great. Which product did you use? And don’t gatekeep!",
-      "subPreview": [
-        "Your hair looks great. Which product did you use? And don’t gatekeep!"
-      ],
-      "thumb": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0nn9k15.jpg"
-    },
-    {
-      "id": "bbc6min-6",
-      "title": "BBC 6 Minute English · The English We Speak: In over my head",
-      "category": "播客",
-      "duration": "2:53",
-      "level": "中级",
-      "sourceUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nm1vs6.mp3",
-      "kind": "audio",
-      "needsLogin": false,
-      "needsProxy": true,
-      "regions": [
-        "global"
-      ],
-      "desc": "I'm so stressed, I'm in over my head! Learn how to use this expression in this programme",
-      "subPreview": [
-        "I'm so stressed, I'm in over my head! Learn how to use this expression in this programme"
-      ],
-      "thumb": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0nm1wqk.jpg"
-    },
-    {
-      "id": "bbc6min-7",
-      "title": "BBC 6 Minute English · The English We Speak: A hunch",
-      "category": "播客",
-      "duration": "2:32",
-      "level": "中级",
-      "sourceUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nkqkvj.mp3",
-      "kind": "audio",
-      "needsLogin": false,
-      "needsProxy": true,
-      "regions": [
-        "global"
-      ],
-      "desc": "Have a feeling but not sure why or where it came from?",
-      "subPreview": [
-        "Have a feeling but not sure why or where it came from?"
-      ],
-      "thumb": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0nkqm1h.jpg"
-    },
-    {
-      "id": "bbc6min-8",
-      "title": "BBC 6 Minute English · The English We Speak: Take it as a given",
-      "category": "播客",
-      "duration": "2:37",
-      "level": "中级",
-      "sourceUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0njcnkq.mp3",
-      "kind": "audio",
-      "needsLogin": false,
-      "needsProxy": true,
-      "regions": [
-        "global"
-      ],
-      "desc": "What should you take as a given when learning English? Learn how to use this expression!",
-      "subPreview": [
-        "What should you take as a given when learning English? Learn how to use this expression!"
-      ],
-      "thumb": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0njcpb4.jpg"
-    },
-    {
-      "id": "bbc6min-9",
-      "title": "BBC 6 Minute English · The English We Speak: Think on your feet",
-      "category": "播客",
-      "duration": "2:49",
-      "level": "中级",
-      "sourceUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nh0dqf.mp3",
-      "kind": "audio",
-      "needsLogin": false,
-      "needsProxy": true,
-      "regions": [
-        "global"
-      ],
-      "desc": "You don't need to be on your feet to think on your feet. Learn this expression here.",
-      "subPreview": [
-        "You don't need to be on your feet to think on your feet. Learn this expression here."
-      ],
-      "thumb": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0nh0hkt.jpg"
-    },
-    {
-      "id": "bbc6min-10",
-      "title": "BBC 6 Minute English · The English We Speak: Can't see the wood for the trees",
-      "category": "播客",
-      "duration": "3:23",
-      "level": "中级",
-      "sourceUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nfn7z6.mp3",
-      "kind": "audio",
-      "needsLogin": false,
-      "needsProxy": true,
-      "regions": [
-        "global"
-      ],
-      "desc": "This idiom is about focusing on small details and losing sight of the bigger picture.",
-      "subPreview": [
-        "This idiom is about focusing on small details and losing sight of the bigger picture."
-      ],
-      "thumb": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0hxql2c.jpg"
-    },
-    {
-      "id": "bbc6min-11",
-      "title": "BBC 6 Minute English · The English We Speak: Yap",
-      "category": "播客",
-      "duration": "3:18",
-      "level": "中级",
-      "sourceUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nd91kk.mp3",
-      "kind": "audio",
-      "needsLogin": false,
-      "needsProxy": true,
-      "regions": [
-        "global"
-      ],
-      "desc": "\"Stop yapping!\" Learn a word to use when someone talks a lot with Feifei and Georgie.",
-      "subPreview": [
-        "\"Stop yapping!\" Learn a word to use when someone talks a lot with Feifei and Georgie."
-      ],
-      "thumb": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0nd94x5.jpg"
-    },
-    {
-      "id": "bbc6min-12",
-      "title": "BBC 6 Minute English · The English We Speak: Flow State",
-      "category": "播客",
-      "duration": "3:26",
-      "level": "中级",
-      "sourceUrl": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/https/vpid/p0nbyxxp.mp3",
-      "kind": "audio",
-      "needsLogin": false,
-      "needsProxy": true,
-      "regions": [
-        "global"
-      ],
-      "desc": "Enter flow state and feel fully focused. Learn how to use this expression here!",
-      "subPreview": [
-        "Enter flow state and feel fully focused. Learn how to use this expression here!"
-      ],
-      "thumb": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0nbz01m.jpg"
-    },
     {
       "id": "teded-1",
       "title": "How a broken heart affects your body - Roni Shanoada",
@@ -353,10 +13,6 @@
       "needsProxy": true,
       "regions": [
         "global"
-      ],
-      "desc": "Dig into broken heart syndrome, and find out how grief and traumatic events can affect your body and health.",
-      "subPreview": [
-        "Dig into broken heart syndrome, and find out how grief and traumatic events can affect your body and health."
       ],
       "thumb": "https://i.ytimg.com/vi/DbEZmLoGDbk/hqdefault.jpg"
     },
@@ -373,10 +29,6 @@
       "regions": [
         "global"
       ],
-      "desc": "Explore the three conditions needed to trigger an avalanche, and what makes these natural disasters so hard to survive.",
-      "subPreview": [
-        "Explore the three conditions needed to trigger an avalanche, and what makes these natural disasters so hard to survive."
-      ],
       "thumb": "https://i.ytimg.com/vi/6hCo4S_1Fhw/hqdefault.jpg"
     },
     {
@@ -391,10 +43,6 @@
       "needsProxy": true,
       "regions": [
         "global"
-      ],
-      "desc": "Take a look inside a dishwasher to explore how these machines work, and find out how to get the cleanest dishes from every use.",
-      "subPreview": [
-        "Take a look inside a dishwasher to explore how these machines work, and find out how to get the cleanest dishes from every use."
       ],
       "thumb": "https://i.ytimg.com/vi/FBpBUwlDId0/hqdefault.jpg"
     },
@@ -411,17 +59,13 @@
       "regions": [
         "global"
       ],
-      "desc": "Dig into the history of medieval European castles, and explore how the design of these formidable fortresses evolved over time.",
-      "subPreview": [
-        "Dig into the history of medieval European castles, and explore how the design of these formidable fortresses evolved over time."
-      ],
       "thumb": "https://i.ytimg.com/vi/eR5blcjll8o/hqdefault.jpg"
     },
     {
       "id": "teded-5",
       "title": "Meet the slow loris, the only venomous primate in existence - Stephanie A. Poindexter",
       "category": "TED-Ed",
-      "duration": "5:59",
+      "duration": "6:00",
       "level": "中级",
       "sourceUrl": "https://www.youtube.com/watch?v=JDqpcHGfJ2I",
       "kind": "video",
@@ -430,17 +74,13 @@
       "regions": [
         "global"
       ],
-      "desc": "Get to know the slow loris, the world's only venomous primate, and explore this complex creature’s fascinating characteristics.",
-      "subPreview": [
-        "Get to know the slow loris, the world's only venomous primate, and explore this complex creature’s fascinating characteristics."
-      ],
       "thumb": "https://i.ytimg.com/vi/JDqpcHGfJ2I/hqdefault.jpg"
     },
     {
       "id": "teded-6",
       "title": "Just how ancient is sumo? - Lee Thompson",
       "category": "TED-Ed",
-      "duration": "5:37",
+      "duration": "5:38",
       "level": "中级",
       "sourceUrl": "https://www.youtube.com/watch?v=Q9Vt6NGBVBc",
       "kind": "video",
@@ -449,17 +89,13 @@
       "regions": [
         "global"
       ],
-      "desc": "Trace the history of sumo, and explore how the sport was designed and modified to reflect ancient Japan’s culture and traditions.",
-      "subPreview": [
-        "Trace the history of sumo, and explore how the sport was designed and modified to reflect ancient Japan’s culture and traditions."
-      ],
       "thumb": "https://i.ytimg.com/vi/Q9Vt6NGBVBc/hqdefault.jpg"
     },
     {
       "id": "teded-7",
       "title": "Why does catnip make cats go crazy? - Jaap de Roode",
       "category": "TED-Ed",
-      "duration": "4:59",
+      "duration": "5:00",
       "level": "中级",
       "sourceUrl": "https://www.youtube.com/watch?v=HDt_rTPPh70",
       "kind": "video",
@@ -467,10 +103,6 @@
       "needsProxy": true,
       "regions": [
         "global"
-      ],
-      "desc": "Explore the fascinating reason why cats go crazy for catnip, and what evolutionary purpose the plant served to feline species.",
-      "subPreview": [
-        "Explore the fascinating reason why cats go crazy for catnip, and what evolutionary purpose the plant served to feline species."
       ],
       "thumb": "https://i.ytimg.com/vi/HDt_rTPPh70/hqdefault.jpg"
     },
@@ -487,17 +119,13 @@
       "regions": [
         "global"
       ],
-      "desc": "Dig into the infamous tales of the Brothers Grimm, and explore how these gory stories evolved as they spread around the world.",
-      "subPreview": [
-        "Dig into the infamous tales of the Brothers Grimm, and explore how these gory stories evolved as they spread around the world."
-      ],
       "thumb": "https://i.ytimg.com/vi/pyDZpDkU46Y/hqdefault.jpg"
     },
     {
       "id": "teded-9",
       "title": "Why your best ideas usually start as bad ones | Think Like A Musician",
       "category": "TED-Ed",
-      "duration": "4:52",
+      "duration": "4:53",
       "level": "中级",
       "sourceUrl": "https://www.youtube.com/watch?v=BlK23YzqXOM",
       "kind": "video",
@@ -505,10 +133,6 @@
       "needsProxy": true,
       "regions": [
         "global"
-      ],
-      "desc": "Professional songwriters share the importance of embracing mistakes, collaboration, and experimentation in the creative process.",
-      "subPreview": [
-        "Professional songwriters share the importance of embracing mistakes, collaboration, and experimentation in the creative process."
       ],
       "thumb": "https://i.ytimg.com/vi/BlK23YzqXOM/hqdefault.jpg"
     },
@@ -525,17 +149,13 @@
       "regions": [
         "global"
       ],
-      "desc": "Trace the ancient origins of toys and games throughout history, and discover how play has evolved — and stayed the same.",
-      "subPreview": [
-        "Trace the ancient origins of toys and games throughout history, and discover how play has evolved — and stayed the same."
-      ],
       "thumb": "https://i.ytimg.com/vi/aob7rM5PV5A/hqdefault.jpg"
     },
     {
       "id": "teded-11",
       "title": "The incredible engineering of Venice - Stephanie H. Smith",
       "category": "TED-Ed",
-      "duration": "6:49",
+      "duration": "6:50",
       "level": "中级",
       "sourceUrl": "https://www.youtube.com/watch?v=uBwkMc1llmM",
       "kind": "video",
@@ -544,17 +164,13 @@
       "regions": [
         "global"
       ],
-      "desc": "Explore the history of Venice to find out how the infamous floating city was built and how the republic became a hub for trade.",
-      "subPreview": [
-        "Explore the history of Venice to find out how the infamous floating city was built and how the republic became a hub for trade."
-      ],
       "thumb": "https://i.ytimg.com/vi/uBwkMc1llmM/hqdefault.jpg"
     },
     {
       "id": "teded-12",
       "title": "Why is getting bitten by a rabid animal so dangerous? - Charles Rupprecht",
       "category": "TED-Ed",
-      "duration": "6:03",
+      "duration": "6:04",
       "level": "中级",
       "sourceUrl": "https://www.youtube.com/watch?v=gePOX4nbMU4",
       "kind": "video",
@@ -563,17 +179,13 @@
       "regions": [
         "global"
       ],
-      "desc": "Take a look at what makes rabies the most lethal infectious disease, and what measures you should take if you're exposed to it.",
-      "subPreview": [
-        "Take a look at what makes rabies the most lethal infectious disease, and what measures you should take if you're exposed to it."
-      ],
       "thumb": "https://i.ytimg.com/vi/gePOX4nbMU4/hqdefault.jpg"
     },
     {
       "id": "easyen-1",
       "title": "Family English Conversation",
       "category": "Easy English",
-      "duration": "17:16",
+      "duration": "17:17",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=VMOHR7oWVds",
       "kind": "video",
@@ -581,10 +193,6 @@
       "needsProxy": true,
       "regions": [
         "global"
-      ],
-      "desc": "Family Rules and Responsibilities · The Cost of Wasting Things · Where Are the House Keys? · Teaching Kids How to Save Money and Spend It Wi",
-      "subPreview": [
-        "Family Rules and Responsibilities · The Cost of Wasting Things · Where Are the House Keys? · Teaching Kids How to Save Money and Spend It Wi"
       ],
       "thumb": "https://i.ytimg.com/vi/VMOHR7oWVds/hqdefault.jpg"
     },
@@ -601,17 +209,13 @@
       "regions": [
         "global"
       ],
-      "desc": "Catering for a Birthday Party · Wrong Order · At the Pharmacy · Car Trouble – Calling for Help and Explaining the Problem · How to Explain a",
-      "subPreview": [
-        "Catering for a Birthday Party · Wrong Order · At the Pharmacy · Car Trouble – Calling for Help and Explaining the Problem · How to Explain a"
-      ],
       "thumb": "https://i.ytimg.com/vi/JbfFonbvQrc/hqdefault.jpg"
     },
     {
       "id": "easyen-3",
       "title": "Stop Sounding like a Textbook / Learn Real English Conversations",
       "category": "Easy English",
-      "duration": "18:10",
+      "duration": "18:11",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=_PLGun5OwPA",
       "kind": "video",
@@ -620,17 +224,13 @@
       "regions": [
         "global"
       ],
-      "desc": "Textbook English vs Real English · Common English Mistakes Beginners Make · Stop Saying “Very” — Better English Words · How to Introduce You",
-      "subPreview": [
-        "Textbook English vs Real English · Common English Mistakes Beginners Make · Stop Saying “Very” — Better English Words · How to Introduce You"
-      ],
       "thumb": "https://i.ytimg.com/vi/_PLGun5OwPA/hqdefault.jpg"
     },
     {
       "id": "easyen-4",
       "title": "English Conversation for Beginners",
       "category": "Easy English",
-      "duration": "14:14",
+      "duration": "14:15",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=YwB0n883s84",
       "kind": "video",
@@ -638,10 +238,6 @@
       "needsProxy": true,
       "regions": [
         "global"
-      ],
-      "desc": "Small Talk Starters · Saying “excuse me” in different ways · Tiny but powerful phrases natives use · More Natural Alternatives to “Okay” · R",
-      "subPreview": [
-        "Small Talk Starters · Saying “excuse me” in different ways · Tiny but powerful phrases natives use · More Natural Alternatives to “Okay” · R"
       ],
       "thumb": "https://i.ytimg.com/vi/YwB0n883s84/hqdefault.jpg"
     },
@@ -658,10 +254,6 @@
       "regions": [
         "global"
       ],
-      "desc": "How Does It work? · Cheap Meals I Can Cook at Home · Basic Ingredients You Should Always Have · Storing Food Properly to Avoid Waste · Getti",
-      "subPreview": [
-        "How Does It work? · Cheap Meals I Can Cook at Home · Basic Ingredients You Should Always Have · Storing Food Properly to Avoid Waste · Getti"
-      ],
       "thumb": "https://i.ytimg.com/vi/x4HQj28ADhE/hqdefault.jpg"
     },
     {
@@ -677,17 +269,13 @@
       "regions": [
         "global"
       ],
-      "desc": "From Zero English to Fluent is a story-based learning video that follows Ania, an international student, as she goes from speaking almost no",
-      "subPreview": [
-        "From Zero English to Fluent is a story-based learning video that follows Ania, an international student, as she goes from speaking almost no"
-      ],
       "thumb": "https://i.ytimg.com/vi/oRwXOGkfkao/hqdefault.jpg"
     },
     {
       "id": "easyen-7",
       "title": "This Is How Native Speakers REALLY Talk",
       "category": "Easy English",
-      "duration": "14:10",
+      "duration": "14:11",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=bIQtaMR01b4",
       "kind": "video",
@@ -696,17 +284,13 @@
       "regions": [
         "global"
       ],
-      "desc": "Talking to the flight Attendant · Making Small Talk while Waiting in Line · What Would You Like to Order? · At the Grocery Store · Enjoy the",
-      "subPreview": [
-        "Talking to the flight Attendant · Making Small Talk while Waiting in Line · What Would You Like to Order? · At the Grocery Store · Enjoy the"
-      ],
       "thumb": "https://i.ytimg.com/vi/bIQtaMR01b4/hqdefault.jpg"
     },
     {
       "id": "easyen-8",
       "title": "English Conversation for Beginners",
       "category": "Easy English",
-      "duration": "14:18",
+      "duration": "14:19",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=y9umV43NUqo",
       "kind": "video",
@@ -715,17 +299,13 @@
       "regions": [
         "global"
       ],
-      "desc": "What Are You Going to Do? (be going to) · We Used to Spend So Much Time Outside (used to) · I’ve Never Tried That |(Present Perfect) · What ",
-      "subPreview": [
-        "What Are You Going to Do? (be going to) · We Used to Spend So Much Time Outside (used to) · I’ve Never Tried That |(Present Perfect) · What "
-      ],
       "thumb": "https://i.ytimg.com/vi/y9umV43NUqo/hqdefault.jpg"
     },
     {
       "id": "easyen-9",
       "title": "Letter to the Future - English Action Verbs",
       "category": "Easy English",
-      "duration": "10:50",
+      "duration": "10:51",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=wSoAtdBg2IA",
       "kind": "video",
@@ -734,17 +314,13 @@
       "regions": [
         "global"
       ],
-      "desc": "In this heartwarming English storytelling video, Emma and Lucas discover a mysterious map in their grandparents’ attic that leads them to a ",
-      "subPreview": [
-        "In this heartwarming English storytelling video, Emma and Lucas discover a mysterious map in their grandparents’ attic that leads them to a "
-      ],
       "thumb": "https://i.ytimg.com/vi/wSoAtdBg2IA/hqdefault.jpg"
     },
     {
       "id": "easyen-10",
       "title": "English in the Countryside - Present Continuous Tense",
       "category": "Easy English",
-      "duration": "9:41",
+      "duration": "9:42",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=CX7lcgDQ_Pk",
       "kind": "video",
@@ -752,10 +328,6 @@
       "needsProxy": true,
       "regions": [
         "global"
-      ],
-      "desc": "Join Clara and her family for a cozy day in the countryside while learning the Present Continuous Tense in a natural and engaging way!",
-      "subPreview": [
-        "Join Clara and her family for a cozy day in the countryside while learning the Present Continuous Tense in a natural and engaging way!"
       ],
       "thumb": "https://i.ytimg.com/vi/CX7lcgDQ_Pk/hqdefault.jpg"
     },
@@ -772,17 +344,13 @@
       "regions": [
         "global"
       ],
-      "desc": "Responding to Personal Questions You Don’t Want to Answer · Handling Silence in a Conversation · Correcting a Misunderstanding · Breaking th",
-      "subPreview": [
-        "Responding to Personal Questions You Don’t Want to Answer · Handling Silence in a Conversation · Correcting a Misunderstanding · Breaking th"
-      ],
       "thumb": "https://i.ytimg.com/vi/9i4z_qXdrX4/hqdefault.jpg"
     },
     {
       "id": "easyen-12",
       "title": "English for Business and Work",
       "category": "Easy English",
-      "duration": "14:05",
+      "duration": "14:06",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=LBOT2uEZgE0",
       "kind": "video",
@@ -790,10 +358,6 @@
       "needsProxy": true,
       "regions": [
         "global"
-      ],
-      "desc": "Job Interview · Negotiating in English – Prices, Deadlines, Offers · Disagreeing Diplomatically · Small Talk That Actually Works in Business",
-      "subPreview": [
-        "Job Interview · Negotiating in English – Prices, Deadlines, Offers · Disagreeing Diplomatically · Small Talk That Actually Works in Business"
       ],
       "thumb": "https://i.ytimg.com/vi/LBOT2uEZgE0/hqdefault.jpg"
     }
