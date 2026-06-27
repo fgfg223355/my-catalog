@@ -354,6 +354,10 @@
       "regions": [
         "global"
       ],
+      "desc": "Dig into broken heart syndrome, and find out how grief and traumatic events can affect your body and health.",
+      "subPreview": [
+        "Dig into broken heart syndrome, and find out how grief and traumatic events can affect your body and health."
+      ],
       "thumb": "https://i.ytimg.com/vi/DbEZmLoGDbk/hqdefault.jpg"
     },
     {
@@ -368,6 +372,10 @@
       "needsProxy": true,
       "regions": [
         "global"
+      ],
+      "desc": "Explore the three conditions needed to trigger an avalanche, and what makes these natural disasters so hard to survive.",
+      "subPreview": [
+        "Explore the three conditions needed to trigger an avalanche, and what makes these natural disasters so hard to survive."
       ],
       "thumb": "https://i.ytimg.com/vi/6hCo4S_1Fhw/hqdefault.jpg"
     },
@@ -384,6 +392,10 @@
       "regions": [
         "global"
       ],
+      "desc": "Take a look inside a dishwasher to explore how these machines work, and find out how to get the cleanest dishes from every use.",
+      "subPreview": [
+        "Take a look inside a dishwasher to explore how these machines work, and find out how to get the cleanest dishes from every use."
+      ],
       "thumb": "https://i.ytimg.com/vi/FBpBUwlDId0/hqdefault.jpg"
     },
     {
@@ -399,13 +411,17 @@
       "regions": [
         "global"
       ],
+      "desc": "Dig into the history of medieval European castles, and explore how the design of these formidable fortresses evolved over time.",
+      "subPreview": [
+        "Dig into the history of medieval European castles, and explore how the design of these formidable fortresses evolved over time."
+      ],
       "thumb": "https://i.ytimg.com/vi/eR5blcjll8o/hqdefault.jpg"
     },
     {
       "id": "teded-5",
       "title": "Meet the slow loris, the only venomous primate in existence - Stephanie A. Poindexter",
       "category": "TED-Ed",
-      "duration": "6:00",
+      "duration": "5:59",
       "level": "中级",
       "sourceUrl": "https://www.youtube.com/watch?v=JDqpcHGfJ2I",
       "kind": "video",
@@ -414,13 +430,17 @@
       "regions": [
         "global"
       ],
+      "desc": "Get to know the slow loris, the world's only venomous primate, and explore this complex creature’s fascinating characteristics.",
+      "subPreview": [
+        "Get to know the slow loris, the world's only venomous primate, and explore this complex creature’s fascinating characteristics."
+      ],
       "thumb": "https://i.ytimg.com/vi/JDqpcHGfJ2I/hqdefault.jpg"
     },
     {
       "id": "teded-6",
       "title": "Just how ancient is sumo? - Lee Thompson",
       "category": "TED-Ed",
-      "duration": "5:38",
+      "duration": "5:37",
       "level": "中级",
       "sourceUrl": "https://www.youtube.com/watch?v=Q9Vt6NGBVBc",
       "kind": "video",
@@ -429,13 +449,17 @@
       "regions": [
         "global"
       ],
+      "desc": "Trace the history of sumo, and explore how the sport was designed and modified to reflect ancient Japan’s culture and traditions.",
+      "subPreview": [
+        "Trace the history of sumo, and explore how the sport was designed and modified to reflect ancient Japan’s culture and traditions."
+      ],
       "thumb": "https://i.ytimg.com/vi/Q9Vt6NGBVBc/hqdefault.jpg"
     },
     {
       "id": "teded-7",
       "title": "Why does catnip make cats go crazy? - Jaap de Roode",
       "category": "TED-Ed",
-      "duration": "5:00",
+      "duration": "4:59",
       "level": "中级",
       "sourceUrl": "https://www.youtube.com/watch?v=HDt_rTPPh70",
       "kind": "video",
@@ -443,6 +467,10 @@
       "needsProxy": true,
       "regions": [
         "global"
+      ],
+      "desc": "Explore the fascinating reason why cats go crazy for catnip, and what evolutionary purpose the plant served to feline species.",
+      "subPreview": [
+        "Explore the fascinating reason why cats go crazy for catnip, and what evolutionary purpose the plant served to feline species."
       ],
       "thumb": "https://i.ytimg.com/vi/HDt_rTPPh70/hqdefault.jpg"
     },
@@ -459,13 +487,17 @@
       "regions": [
         "global"
       ],
+      "desc": "Dig into the infamous tales of the Brothers Grimm, and explore how these gory stories evolved as they spread around the world.",
+      "subPreview": [
+        "Dig into the infamous tales of the Brothers Grimm, and explore how these gory stories evolved as they spread around the world."
+      ],
       "thumb": "https://i.ytimg.com/vi/pyDZpDkU46Y/hqdefault.jpg"
     },
     {
       "id": "teded-9",
       "title": "Why your best ideas usually start as bad ones | Think Like A Musician",
       "category": "TED-Ed",
-      "duration": "4:53",
+      "duration": "4:52",
       "level": "中级",
       "sourceUrl": "https://www.youtube.com/watch?v=BlK23YzqXOM",
       "kind": "video",
@@ -473,6 +505,10 @@
       "needsProxy": true,
       "regions": [
         "global"
+      ],
+      "desc": "Professional songwriters share the importance of embracing mistakes, collaboration, and experimentation in the creative process.",
+      "subPreview": [
+        "Professional songwriters share the importance of embracing mistakes, collaboration, and experimentation in the creative process."
       ],
       "thumb": "https://i.ytimg.com/vi/BlK23YzqXOM/hqdefault.jpg"
     },
@@ -489,13 +525,17 @@
       "regions": [
         "global"
       ],
+      "desc": "Trace the ancient origins of toys and games throughout history, and discover how play has evolved — and stayed the same.",
+      "subPreview": [
+        "Trace the ancient origins of toys and games throughout history, and discover how play has evolved — and stayed the same."
+      ],
       "thumb": "https://i.ytimg.com/vi/aob7rM5PV5A/hqdefault.jpg"
     },
     {
       "id": "teded-11",
       "title": "The incredible engineering of Venice - Stephanie H. Smith",
       "category": "TED-Ed",
-      "duration": "6:50",
+      "duration": "6:49",
       "level": "中级",
       "sourceUrl": "https://www.youtube.com/watch?v=uBwkMc1llmM",
       "kind": "video",
@@ -504,13 +544,17 @@
       "regions": [
         "global"
       ],
+      "desc": "Explore the history of Venice to find out how the infamous floating city was built and how the republic became a hub for trade.",
+      "subPreview": [
+        "Explore the history of Venice to find out how the infamous floating city was built and how the republic became a hub for trade."
+      ],
       "thumb": "https://i.ytimg.com/vi/uBwkMc1llmM/hqdefault.jpg"
     },
     {
       "id": "teded-12",
       "title": "Why is getting bitten by a rabid animal so dangerous? - Charles Rupprecht",
       "category": "TED-Ed",
-      "duration": "6:04",
+      "duration": "6:03",
       "level": "中级",
       "sourceUrl": "https://www.youtube.com/watch?v=gePOX4nbMU4",
       "kind": "video",
@@ -519,13 +563,17 @@
       "regions": [
         "global"
       ],
+      "desc": "Take a look at what makes rabies the most lethal infectious disease, and what measures you should take if you're exposed to it.",
+      "subPreview": [
+        "Take a look at what makes rabies the most lethal infectious disease, and what measures you should take if you're exposed to it."
+      ],
       "thumb": "https://i.ytimg.com/vi/gePOX4nbMU4/hqdefault.jpg"
     },
     {
       "id": "easyen-1",
       "title": "Family English Conversation",
       "category": "Easy English",
-      "duration": "17:17",
+      "duration": "17:16",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=VMOHR7oWVds",
       "kind": "video",
@@ -533,6 +581,10 @@
       "needsProxy": true,
       "regions": [
         "global"
+      ],
+      "desc": "Family Rules and Responsibilities · The Cost of Wasting Things · Where Are the House Keys? · Teaching Kids How to Save Money and Spend It Wi",
+      "subPreview": [
+        "Family Rules and Responsibilities · The Cost of Wasting Things · Where Are the House Keys? · Teaching Kids How to Save Money and Spend It Wi"
       ],
       "thumb": "https://i.ytimg.com/vi/VMOHR7oWVds/hqdefault.jpg"
     },
@@ -549,13 +601,17 @@
       "regions": [
         "global"
       ],
+      "desc": "Catering for a Birthday Party · Wrong Order · At the Pharmacy · Car Trouble – Calling for Help and Explaining the Problem · How to Explain a",
+      "subPreview": [
+        "Catering for a Birthday Party · Wrong Order · At the Pharmacy · Car Trouble – Calling for Help and Explaining the Problem · How to Explain a"
+      ],
       "thumb": "https://i.ytimg.com/vi/JbfFonbvQrc/hqdefault.jpg"
     },
     {
       "id": "easyen-3",
       "title": "Stop Sounding like a Textbook / Learn Real English Conversations",
       "category": "Easy English",
-      "duration": "18:11",
+      "duration": "18:10",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=_PLGun5OwPA",
       "kind": "video",
@@ -564,13 +620,17 @@
       "regions": [
         "global"
       ],
+      "desc": "Textbook English vs Real English · Common English Mistakes Beginners Make · Stop Saying “Very” — Better English Words · How to Introduce You",
+      "subPreview": [
+        "Textbook English vs Real English · Common English Mistakes Beginners Make · Stop Saying “Very” — Better English Words · How to Introduce You"
+      ],
       "thumb": "https://i.ytimg.com/vi/_PLGun5OwPA/hqdefault.jpg"
     },
     {
       "id": "easyen-4",
       "title": "English Conversation for Beginners",
       "category": "Easy English",
-      "duration": "14:15",
+      "duration": "14:14",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=YwB0n883s84",
       "kind": "video",
@@ -578,6 +638,10 @@
       "needsProxy": true,
       "regions": [
         "global"
+      ],
+      "desc": "Small Talk Starters · Saying “excuse me” in different ways · Tiny but powerful phrases natives use · More Natural Alternatives to “Okay” · R",
+      "subPreview": [
+        "Small Talk Starters · Saying “excuse me” in different ways · Tiny but powerful phrases natives use · More Natural Alternatives to “Okay” · R"
       ],
       "thumb": "https://i.ytimg.com/vi/YwB0n883s84/hqdefault.jpg"
     },
@@ -594,6 +658,10 @@
       "regions": [
         "global"
       ],
+      "desc": "How Does It work? · Cheap Meals I Can Cook at Home · Basic Ingredients You Should Always Have · Storing Food Properly to Avoid Waste · Getti",
+      "subPreview": [
+        "How Does It work? · Cheap Meals I Can Cook at Home · Basic Ingredients You Should Always Have · Storing Food Properly to Avoid Waste · Getti"
+      ],
       "thumb": "https://i.ytimg.com/vi/x4HQj28ADhE/hqdefault.jpg"
     },
     {
@@ -609,13 +677,17 @@
       "regions": [
         "global"
       ],
+      "desc": "From Zero English to Fluent is a story-based learning video that follows Ania, an international student, as she goes from speaking almost no",
+      "subPreview": [
+        "From Zero English to Fluent is a story-based learning video that follows Ania, an international student, as she goes from speaking almost no"
+      ],
       "thumb": "https://i.ytimg.com/vi/oRwXOGkfkao/hqdefault.jpg"
     },
     {
       "id": "easyen-7",
       "title": "This Is How Native Speakers REALLY Talk",
       "category": "Easy English",
-      "duration": "14:11",
+      "duration": "14:10",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=bIQtaMR01b4",
       "kind": "video",
@@ -624,13 +696,17 @@
       "regions": [
         "global"
       ],
+      "desc": "Talking to the flight Attendant · Making Small Talk while Waiting in Line · What Would You Like to Order? · At the Grocery Store · Enjoy the",
+      "subPreview": [
+        "Talking to the flight Attendant · Making Small Talk while Waiting in Line · What Would You Like to Order? · At the Grocery Store · Enjoy the"
+      ],
       "thumb": "https://i.ytimg.com/vi/bIQtaMR01b4/hqdefault.jpg"
     },
     {
       "id": "easyen-8",
       "title": "English Conversation for Beginners",
       "category": "Easy English",
-      "duration": "14:19",
+      "duration": "14:18",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=y9umV43NUqo",
       "kind": "video",
@@ -639,13 +715,17 @@
       "regions": [
         "global"
       ],
+      "desc": "What Are You Going to Do? (be going to) · We Used to Spend So Much Time Outside (used to) · I’ve Never Tried That |(Present Perfect) · What ",
+      "subPreview": [
+        "What Are You Going to Do? (be going to) · We Used to Spend So Much Time Outside (used to) · I’ve Never Tried That |(Present Perfect) · What "
+      ],
       "thumb": "https://i.ytimg.com/vi/y9umV43NUqo/hqdefault.jpg"
     },
     {
       "id": "easyen-9",
       "title": "Letter to the Future - English Action Verbs",
       "category": "Easy English",
-      "duration": "10:51",
+      "duration": "10:50",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=wSoAtdBg2IA",
       "kind": "video",
@@ -654,13 +734,17 @@
       "regions": [
         "global"
       ],
+      "desc": "In this heartwarming English storytelling video, Emma and Lucas discover a mysterious map in their grandparents’ attic that leads them to a ",
+      "subPreview": [
+        "In this heartwarming English storytelling video, Emma and Lucas discover a mysterious map in their grandparents’ attic that leads them to a "
+      ],
       "thumb": "https://i.ytimg.com/vi/wSoAtdBg2IA/hqdefault.jpg"
     },
     {
       "id": "easyen-10",
       "title": "English in the Countryside - Present Continuous Tense",
       "category": "Easy English",
-      "duration": "9:42",
+      "duration": "9:41",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=CX7lcgDQ_Pk",
       "kind": "video",
@@ -668,6 +752,10 @@
       "needsProxy": true,
       "regions": [
         "global"
+      ],
+      "desc": "Join Clara and her family for a cozy day in the countryside while learning the Present Continuous Tense in a natural and engaging way!",
+      "subPreview": [
+        "Join Clara and her family for a cozy day in the countryside while learning the Present Continuous Tense in a natural and engaging way!"
       ],
       "thumb": "https://i.ytimg.com/vi/CX7lcgDQ_Pk/hqdefault.jpg"
     },
@@ -684,13 +772,17 @@
       "regions": [
         "global"
       ],
+      "desc": "Responding to Personal Questions You Don’t Want to Answer · Handling Silence in a Conversation · Correcting a Misunderstanding · Breaking th",
+      "subPreview": [
+        "Responding to Personal Questions You Don’t Want to Answer · Handling Silence in a Conversation · Correcting a Misunderstanding · Breaking th"
+      ],
       "thumb": "https://i.ytimg.com/vi/9i4z_qXdrX4/hqdefault.jpg"
     },
     {
       "id": "easyen-12",
       "title": "English for Business and Work",
       "category": "Easy English",
-      "duration": "14:06",
+      "duration": "14:05",
       "level": "初级",
       "sourceUrl": "https://www.youtube.com/watch?v=LBOT2uEZgE0",
       "kind": "video",
@@ -698,6 +790,10 @@
       "needsProxy": true,
       "regions": [
         "global"
+      ],
+      "desc": "Job Interview · Negotiating in English – Prices, Deadlines, Offers · Disagreeing Diplomatically · Small Talk That Actually Works in Business",
+      "subPreview": [
+        "Job Interview · Negotiating in English – Prices, Deadlines, Offers · Disagreeing Diplomatically · Small Talk That Actually Works in Business"
       ],
       "thumb": "https://i.ytimg.com/vi/LBOT2uEZgE0/hqdefault.jpg"
     }
